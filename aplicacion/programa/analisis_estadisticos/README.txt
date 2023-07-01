@@ -1,0 +1,1 @@
+Esta carpeta se hizo con el fin de solamente mostrar los analisis estadisticos con datos cargados a mano en los archivos de perfiles.sjon, imagenes.csv y perfiles.csv. Los analisis estadisticos tambien funcionan con los archivos del programa pero como son en menor cantidad decidimos crear esta carpeta con datos ficticios. 

@@ -1,0 +1,37 @@
+[
+  {
+    "Nombre": "Juan Garcia",
+    "Edad": 35,
+    "Alias": "Juan2023",
+    "Genero": "Masculino",
+    "Foto": "foto1.png"
+  },
+  {
+    "Nombre": "Maria Dolores",
+    "Edad": 22,
+    "Alias": "Dolo1234",
+    "Genero": "Femenino",
+    "Foto": "foto2.png"
+  },
+  {
+    "Nombre": "Joaquin Perez",
+    "Edad": 70,
+    "Alias": "Joaco22",
+    "Genero": "Masculino",
+    "Foto": "foto3.png"
+  },
+  {
+    "Nombre": "Monica Lustoff",
+    "Edad": 32,
+    "Alias": "Moni21",
+    "Genero": "Femenino",
+    "Foto": "foto4.png"
+  },
+  {
+    "Nombre": "Mateo Del Valle",
+    "Edad": 20,
+    "Alias": "Delva12",
+    "Genero": "Masculino",
+    "Foto": "foto5.png"
+  }
+]

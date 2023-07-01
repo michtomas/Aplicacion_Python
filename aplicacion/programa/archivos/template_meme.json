@@ -1,0 +1,74 @@
+[
+    {
+        "image": "meme1.png",
+        "name": "Mujer gritando a gato",
+        "text_boxes": [
+            {
+                "top_left_x": 5,
+                "top_left_y": 5,
+                "bottom_right_x": 340,
+                "bottom_right_y": 70
+            },
+            {
+                "top_left_x": 350,
+                "top_left_y": 5,
+                "bottom_right_x": 700,
+                "bottom_right_y": 70
+            }
+        ]
+    },
+    {
+        "image": "meme2.png",
+        "name": "Anciano con taza mirando a camara",
+        "text_boxes": [
+            {
+                "top_left_x": 15,
+                "top_left_y": 15,
+                "bottom_right_x": 300,
+                "bottom_right_y": 160
+            },
+            {
+                "top_left_x": 15,
+                "top_left_y": 335,
+                "bottom_right_x": 300,
+                "bottom_right_y": 450
+            }
+        ]
+    },
+    {
+        "image": "meme3.png",
+        "name": "Winnie Poo/ Winnie Poo con traje",
+        "text_boxes": [
+            {
+                "top_left_x": 310,
+                "top_left_y": 5,
+                "bottom_right_x": 684,
+                "bottom_right_y": 250
+            },
+            {
+                "top_left_x": 310,
+                "top_left_y": 255,
+                "bottom_right_x": 684,
+                "bottom_right_y": 501
+            }
+        ]
+    },
+    {
+        "image": "meme4.png",
+        "name": "Perro musculoso/ Perrito",
+        "text_boxes": [
+            {
+                "top_left_x": 6,
+                "top_left_y": 1,
+                "bottom_right_x": 340,
+                "bottom_right_y": 97
+            },
+            {
+                "top_left_x": 341,
+                "top_left_y": 0,
+                "bottom_right_x": 677,
+                "bottom_right_y": 95
+            }
+        ]
+    }
+] 
